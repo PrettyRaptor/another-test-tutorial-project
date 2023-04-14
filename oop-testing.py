@@ -86,6 +86,7 @@ monster.attack(10)
 # hero.attack()
 # print(monster.health)
 
+
 shark = Shark(
     bite_strength = 30,
     health = 100,
